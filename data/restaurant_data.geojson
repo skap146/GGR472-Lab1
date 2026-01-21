@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [{"type": "Feature",
+    "properties": {"name": "Casa Madera",
+      "cuisine": "Mexican",
+      "num reviews": 638,
+      "average rating": 4.9},
+    "geometry": {
+      "coordinates": [
+        -79.40149366083658,
+        43.643169006058265
+      ],
+      "type": "Point"
+    }}, {"type": "Feature",
+    "properties": {"name": "Harriet's Rooftop",
+      "cuisine": "Japanese",
+      "num reviews": 206,
+      "average rating": 4.8},
+    "geometry": {
+      "coordinates": [
+        -79.40124418782041,
+        43.643258022059456
+      ],
+      "type": "Point"
+    }},
+    {"type": "Feature",
+      "properties": {"name": "1 Kitchen",
+        "cuisine": "American",
+        "num reviews": 243,
+        "average rating": 4.8},
+      "geometry": {
+        "coordinates": [
+          -79.40194414549248,
+          43.64320839603119
+        ],
+        "type": "Point"
+      }},
+    {"type": "Feature",
+      "properties": {"name": "New Orleans Seafood & Steakhouse",
+        "cuisine": "Steakhouse",
+        "num reviews": 365,
+        "average rating": 4.7},
+      "geometry": {
+        "coordinates": [-79.5063547915233,
+          43.67807218840073
+        ],
+        "type": "Point"
+      }},
+    {"type": "Feature",
+      "properties": {"name": "Benares",
+        "cuisine": "Indian",
+        "num reviews": 133,
+        "average rating": 4.8},
+      "geometry": {
+        "coordinates": [-79.37437677618057,
+          43.64814772073192
+        ],
+        "type": "Point"
+      }},
+    {"type": "Feature",
+      "properties": {"name": "Black+Blue",
+        "cuisine": "Steakhouse",
+        "num reviews": 342,
+        "average rating": 4.7},
+      "geometry": {
+        "coordinates": [-79.38310324549225,
+          43.64826260033314
+        ],
+        "type": "Point"
+      }},
+    {"type": "Feature",
+      "properties": {"name": "Scaramouche Restaurant",
+        "cuisine": "French",
+        "num reviews": 1717,
+        "average rating": 4.6},
+      "geometry": {
+        "coordinates": [-79.40016252271334,
+          43.68193263836008
+        ],
+        "type": "Point"
+      }},
+    {"type": "Feature",
+      "properties": {"name": "Richmond Station",
+        "cuisine": "American",
+        "num reviews": 2214,
+        "average rating": 4.6},
+      "geometry": {
+        "coordinates": [-79.37949170316418,
+          43.651562251237635
+        ],
+        "type": "Point"
+      }}, {"type": "Feature",
+      "properties": {"name": "Pai Northern Thai Kitchen",
+        "cuisine": "Thai",
+        "num reviews": 1780,
+        "average rating": 4.6},
+      "geometry": {
+        "coordinates": [-79.39840869152184,
+          43.708755403163
+        ],
+        "type": "Point"
+      }}, {"type": "Feature",
+      "properties": {"name": "ALO RESTAURANT",
+        "cuisine": "French & Japanese",
+        "num reviews": 613,
+        "average rating": 4.6},
+      "geometry": {
+        "coordinates": [-79.39589858782017, 43.648684552205886
+        ],
+        "type": "Point"
+      }}]
+}
