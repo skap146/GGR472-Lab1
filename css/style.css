@@ -1,0 +1,6 @@
+/* Style settings for home (main) page */
+.site_heading { font-size: 24px;
+    color: darkgoldenrod;
+    font-family: Georgia}
+.message {font-size: 16px; color: black; font-family: Georgia}
+.message-red {font-size: 16px; color: darkred; font-family: Georgia}

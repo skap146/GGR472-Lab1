@@ -1,0 +1,6 @@
+/* Style settings for behind the scenes page */
+.bg {background-color: black}
+.message{font-size: 16px; color: whitesmoke; font-family: Courier New}
+.dark_navbar {background-color: rgb(50, 50, 50)}
+.menu_light{color: white}
+.caption{font-size: 12px; color: white; font-family: Courier New}
