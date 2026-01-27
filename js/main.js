@@ -58,10 +58,9 @@ function checkRestaurant()
     {
 
         resultDiv.textContent = "Sorry, please try again and enter a valid restaurant name."
+        return
     }
 
-    console.log(restaurantNames);
-    console.log(user_input);
 
     // match
     const match = restaurantNames.includes(user_input);
